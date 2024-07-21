@@ -1,1 +1,1 @@
-# Greater-Rochester-Bhutanese-Badminton-Club-
+# Greater-Rochester-Bhutanese-Badminton-Club
