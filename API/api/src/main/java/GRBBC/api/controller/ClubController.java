@@ -17,7 +17,7 @@ import GRBBC.api.model.Player;
 @RestController
 public class ClubController {
     @Autowired
-    public Club club;
+    public ClubService club;
 
     @GetMapping()
     public ResponseEntity<Map<String, Object>> home(){
